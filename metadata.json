@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Veo Animator",
+  "description": "Upload an image and bring it to life using Google's Veo video generation model.",
+  "requestFramePermissions": []
+}
